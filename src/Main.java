@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        int price_ticket = 7317;
-        int fixed_amount = 20;
-        int mile = price_ticket / fixed_amount;
+        int PriceTicket = 7317;
+        int FixedAmount = 20;
+        int mile = PriceTicket / FixedAmount;
         System.out.println(mile);
     }
 }
